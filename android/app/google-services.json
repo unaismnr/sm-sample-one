@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "171181830258",
+    "project_id": "sm-sample-one",
+    "storage_bucket": "sm-sample-one.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:171181830258:android:80d2b704e7f93f503a92eb",
+        "android_client_info": {
+          "package_name": "com.smapp.one"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2sqqMkagmOp98DrdXhepTSTphZ7W6FG8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
